@@ -3,4 +3,10 @@ font-family: 'Montserrat', sans-serif;
 
 h1 {
 	font-family: "Raleway";
+	font-size: 30px;
+}
+
+h2 {
+	font-family: "Raleway";
+	font-size: 20px;
 }
