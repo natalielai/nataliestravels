@@ -1,3 +1,6 @@
-font-family: 'Lato', sans-serif;
 font-family: 'Raleway', sans-serif;
 font-family: 'Montserrat', sans-serif;
+
+h1 {
+	font-family: Raleway;
+}
